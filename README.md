@@ -6,6 +6,9 @@ It allows users to create encrypted `.seed` files protected by a user-defined pa
 
 ---
 
+## Web version
+Seedlight has a web version that is fast, lightweight, and even more secure, with state-of-the-art encryption and advanced security mechanisms. You can access it via Github Pages (https://simplyyan.github.io/Seedlight/) or the website hosted on InfinityFree (https://seedlight.42web.io).
+
 ## ✨ Features
 
 - 🔐 Strong encryption (AES + HMAC via Fernet)
