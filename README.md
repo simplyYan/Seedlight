@@ -87,10 +87,3 @@ You are fully responsible for how you use this software.
 ## 📜 License
 
 MIT License — feel free to use, modify, and distribute.
-
----
-
-## 🤝 Contributions
-
-Issues, audits, and improvements are welcome.
-Security-related feedback is especially appreciated
